@@ -1,7 +1,7 @@
-# Data-Science-Academic-Project
+# Data-Visualization-Academic-Project
 
 
-- This Data Visualisation project is focused on the data set "flights.csv" containing information about all commercial and private aviation occurrences (accidents) occurring within Canada over the past 25 years.
+- This project is focused on the  Canadian air safety by creating different visualizations on the data set containing information about all commercial and private aviation occurrences (accidents) occurring within Canada over the past 25 years.
 
 - This project has been created on one main goal and 2 sub goals :-
 
