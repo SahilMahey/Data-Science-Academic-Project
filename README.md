@@ -1,12 +1,12 @@
 
 
-# Data-Science-Academic-Projects
+# Data-Science-Academic-Projects 
 
 
 This repository currently contain two Data Science Academic Projects.
 
 
-COMP 4304 Data Visualization Projects
+#COMP 4304 Data Visualization Projects
 
 This project is focused on the  Canadian air safety by creating different visualizations on the data set containing information about all commercial and private aviation occurrences (accidents) occurring within Canada over the past 25 years.
 
@@ -24,7 +24,7 @@ Project Presentation :- https://drive.google.com/file/d/1wC2i2ts5zHcTsiXEerp8ICu
 
 
 
-COMP 3600 Machine learning Project
+#COMP 3600 Machine learning Project
 
 This project focuses on analyzing the Wine Dataset, aiming to build and evaluate Classification model (Logistic Regression) based on the quality of wine instances. The investigation primarily revolves around exploring the impact of various data preparation techniques on the predictive performance of the model.
 
