@@ -13,9 +13,10 @@ Sub-Goal 1: What are the most common types of incidents and accidents in Canadia
 
 Sub-Goal 2: Are there any trends or patterns in incidents and accidents based on geographic regions in Canada?
 
--Skills :- Python, Pandas, Matplotlib, Geopandas and Ipywidgets.
+Skills :- Python, Pandas, Matplotlib, Geopandas and Ipywidgets.
 
-- Project Presentation :- https://drive.google.com/file/d/1wC2i2ts5zHcTsiXEerp8ICu6Ll744LDC/view?usp=drive_link
+Project Presentation :- https://drive.google.com/file/d/1wC2i2ts5zHcTsiXEerp8ICu6Ll744LDC/view?usp=drive_link
+
 
 2. COMP 3600 Machine learning Project
 
